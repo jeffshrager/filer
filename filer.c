@@ -1,7 +1,7 @@
 /* 
    
    Filer -- Pattern Matching File Management Utility
-   Copyright (c) 1976-2006 by Jeff Shrager
+   Copyright (c) 1976-2020 by Jeff Shrager
 
 ;;; +=========================================================================+
 ;;; | Permission is hereby granted, free of charge, to any person obtaining   |

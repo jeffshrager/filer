@@ -11,7 +11,7 @@ iostream.h (which is c++ only!)
 --------
 
    Filer -- Pattern Matching File Management Utility
-   Copyright (c) 1976-2001 by Jeff Shrager
+   Copyright (c) 1976-2020 by Jeff Shrager
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
